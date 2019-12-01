@@ -1,0 +1,10 @@
+body {
+  margin: 0px;
+}
+h1, p {
+  font-family: Lato;
+}
+.container {
+  min-height: 100vh;
+  background: #eee;
+}
